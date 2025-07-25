@@ -3,7 +3,6 @@
 This project was developed as part of the **SWE-208 Operating Systems** course to monitor Linux system resources using a command-line C++ application.  
 The application gathers real-time data about CPU, memory, disk, network activity, and processes from system interfaces and files such as `/proc`.
 
->  Prepared by: **Berkan Gülyağcı B221202058 and Cansu Köse B221202027**  
 
 ---
 
