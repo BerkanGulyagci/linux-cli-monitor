@@ -1,0 +1,14 @@
+{
+  "cpu_total": 0.00,
+  "cpu_user": 0.00,
+  "cpu_system": 0.00,
+  "cpu_idle": 100.00,
+  "ram_total": 7833.17,
+  "ram_used": 616.35,
+  "swap_total": 2048.00,
+  "swap_used": 0.00,
+  "disk_usage": 5.25,
+  "net_rx_mb": 17.19,
+  "net_tx_mb": 0.31,
+  "active_connections": 0
+}
